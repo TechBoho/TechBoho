@@ -13,7 +13,6 @@ I have experience developing, testing, debugging, and deploying web applications
 - 🎓 Diploma in Information Technology
 - 💻 Full-Stack Software Developer
 - 🌍 Bloemfontein, South Africa
-- ☁️ AWS re/Start Graduate
 - 📚 Currently improving my ASP.NET Core, C#, React and Node.js skills
 - 🎯 Goal: Build TechBoho Solutions into a successful software consulting company
 
@@ -121,7 +120,7 @@ My personal portfolio showcasing my projects, skills and experience.
 
 ---
 
-## 📌 WoolWorkWebApp
+## 📌 Freelance ASP.NET Core Development (Lumko Software Consultants)
 
 Contributed to testing, debugging and deploying an ASP.NET Core production application.
 
