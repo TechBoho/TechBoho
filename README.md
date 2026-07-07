@@ -1,10 +1,10 @@
 # Hi 👋, I'm Teboho Lebia
 
-## Full-Stack Software Developer | ASP.NET Core | MERN Stack | C#
+## Full-Stack Software Developer | ASP.NET Core • MERN Stack • C# • SQL Server
 
-I am an Information Technology graduate from South Africa who enjoys building full-stack web applications, solving software problems, and continuously improving my software engineering skills.
+I am a Full-Stack Software Developer from South Africa with a Diploma in Information Technology. I enjoy designing, building, testing, debugging, and deploying modern web applications while continuously improving my software engineering skills.
 
-I have experience developing, testing, debugging, and deploying web applications using modern technologies, and I enjoy working on real-world software solutions.
+I have hands-on experience working on production ASP.NET Core applications, collaborating with senior developers, resolving software defects, deploying applications, and building full-stack web solutions using modern technologies.
 
 ---
 
@@ -25,7 +25,7 @@ I have experience developing, testing, debugging, and deploying web applications
 
 **June 2026 – July 2026**
 
-Worked with senior developers to test, debug and deploy an ASP.NET Core production application.
+Collaborated with senior developers to test, debug, enhance, and deploy a production ASP.NET Core application.
 
 #### Responsibilities
 
@@ -44,37 +44,35 @@ Worked with senior developers to test, debug and deploy an ASP.NET Core producti
 
 # 🛠 Technical Skills
 
-### Languages
+## 🛠 Technical Skills
 
+### Languages
 - C#
 - JavaScript
 - Java
 - PHP
 - HTML5
 - CSS3
+- SQL
 
-### Frameworks
-
+### Frameworks & Libraries
 - ASP.NET Core MVC
+- Entity Framework Core
 - React.js
 - Node.js
 - Express.js
-- Entity Framework Core
 
 ### Databases
-
 - SQL Server
 - MongoDB
 
 ### Tools
-
 - Git
 - GitHub
 - Visual Studio Code
-- SSMS
+- SQL Server Management Studio (SSMS)
 - Postman
 - SolidCP
-
 ---
 
 # 🚀 Projects
@@ -124,13 +122,13 @@ My personal portfolio showcasing my projects, skills and experience.
 
 Contributed to testing, debugging and deploying an ASP.NET Core production application.
 
-Highlights:
+## 🏆 Recent Achievements
 
-- Fixed production bugs
-- SQL Server configuration
-- Production deployment
-- HTTP 500.30 troubleshooting
-- Git collaboration
+- Successfully deployed an ASP.NET Core MVC application to a production server.
+- Diagnosed and resolved a production HTTP 500.30 startup error.
+- Configured SQL Server database connectivity for a live application.
+- Collaborated with senior software engineers using Git and GitHub.
+- Verified and tested production bug fixes on a live environment.
 
 ---
 
